@@ -1,0 +1,7 @@
+Pada progam ini akan menjalankan pewarisan, metode overriding dan acces protected, pada progam terdapat 3 kelas. 
+Dimana kelas "Manusia" menjadi superclass kemudia class "ManusiaPekerja" menjadi subclass dari manusia dan memiliki beberapa method inputan. 
+Sedangkan class "ManusiaPemalas" merupakan extends dari class "ManusiaPekerja". 
+Pada class Manusia dipanggil dengan metode overriding, dimana bentuknya sama namun hasil yang dukeluarkan berbeda.
+
+Progam akan meminta inputan nama dan usia pada class "ManusiaPekerja" kemudian akan ditampilkan dengan metode overriding,
+dengan pola yang sama namun hasil keluarannya berbeda.
